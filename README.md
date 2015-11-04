@@ -1,6 +1,8 @@
 Xamarin.Forms Samples
 =====================
 
+[![Join the chat at https://gitter.im/AngryPowman/xamarin-forms-samples](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AngryPowman/xamarin-forms-samples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Sample apps built using the Xamarin.Forms framework.
 
 License
